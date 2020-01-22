@@ -1,4 +1,4 @@
-## Golang / Go: Implementing Clean Architecture in our REST API
+## Golang / Go: Implementing Clean Architecture in a REST API
 
 ## Install Golang - Linux
 
